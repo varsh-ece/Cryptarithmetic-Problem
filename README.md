@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:               </h3>
-<h3>Register Number/Staff Id:       </h3>
+<h3>Name:VARSHINI M </h3>
+<h3>Register Number: 212224060293  </h3>
 <H3>Aim:</H3>
 <p>
     To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
@@ -78,5 +78,10 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
+
+OUTPUT:
+
+<img width="595" height="151" alt="AI 4" src="https://github.com/user-attachments/assets/8fe46591-f637-4c29-885f-effe04c576a0" />
+
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
